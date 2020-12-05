@@ -1,0 +1,5 @@
+altgraph==0.17
+macholib==1.14
+psutil==5.7.3
+pyinstaller==4.1
+pyinstaller-hooks-contrib==2020.10
