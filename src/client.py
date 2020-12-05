@@ -40,7 +40,7 @@ def _send_system_info_to_server(conn):
 
 def start_client():
     # create connection
-    conn = socket.socket()
+    conn = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     conn.connect((SERVER_HOST, PORT))
 
     # send system info
