@@ -9,7 +9,7 @@ CLIENT_HOSTNAME = socket.gethostname()
 CLIENT_MAC_ADDRESS = ':'.join(re.findall('..', '%012x' % uuid.getnode()))
 SERVER_HOST = '127.0.0.1'
 PORT = 4444
-BANNER = F"""
+BANNER = f"""
   _____                    _ _   
  |  __ \                  (_| |  
  | |__) __ _ _ __ __ _ _____| |_ 
