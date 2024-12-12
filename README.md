@@ -6,6 +6,8 @@ Reverse shell generator.
 
 This project was created for the GDL BSides 2020 conference.
 
+[BSides GDL 2020 Conference Video](https://www.facebook.com/BSidesGDL/videos/376897363393242)
+
 # Quickstart
 ## Install (Linux/OSX)
 
