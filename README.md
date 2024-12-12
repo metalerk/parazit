@@ -2,7 +2,9 @@
 
 ![parazit_log](/_assets/parazit_logo.jpg)
 
-Reverse shell generator
+Reverse shell generator.
+
+This project was created for the GDL BSides 2020 conference.
 
 # Quickstart
 ## Install (Linux/OSX)
