@@ -1,5 +1,7 @@
 # Parazit
 
+![parazit_log](/_assets/parazit_logo.jpg)
+
 Reverse shell generator
 
 # Quickstart
